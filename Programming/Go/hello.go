@@ -7,5 +7,5 @@ func main() {
 	var sum int
 	sum = 70 + 9
 
-	fmt.Printf("%d", sum)
+	fmt.Printf("%d\n", sum)
 }
